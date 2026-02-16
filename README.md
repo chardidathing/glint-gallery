@@ -34,7 +34,7 @@ There's more things to work on that I probably forgor to mention here, but feel 
 
 ## Installation
 
-Currently I haven't sorted anything in terms of building/distribution, I will work on this soon!
+I haven't setup F-Droid or any other forms of distribution yet, so feel free to download an APK from [here](https://github.com/chardidathing/glint-gallery/releases) if you wanna check it out!
 
 ## Building
 
